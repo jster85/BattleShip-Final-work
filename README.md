@@ -10,3 +10,4 @@ You can create and join a game using a webserver, which lets you play it with yo
 The code includes 2 packages with 5 Java classes in each package (one pack for gameServices, one for gameElements)
 Program uses Maven - a Java library management tool which helps to establish connection with web services
 Current code version lets you place ships on board, establish connection with a webservice and make first shot
+PLEASE FIND ALL PROJECT FILES IN 'LAIVU-MUSIS.RAR'
